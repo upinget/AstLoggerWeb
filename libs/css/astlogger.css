@@ -1,0 +1,32 @@
+BODY {
+	font-family: Lucida Grande, Lucida Sans, Arial, Helvetica, sans-serif;
+	font-size: 100%;
+	color: #000;
+	margin: 0;
+	padding: 0;
+}
+
+div#logo {
+	background-color: #000;	
+	color: #FFF;
+}
+
+.ui-layout-pane {
+    background-color: #EEE !important;
+}
+
+.ui-layout-pane-north {
+    background-color: #000 !important;
+}
+
+textarea {
+    resize: none;
+}
+
+#downloadurl {
+    margin-bottom: -15px;
+}
+
+#phoneplaybackurl {
+    margin-bottom: -15px;
+}
